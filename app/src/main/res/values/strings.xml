@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HandlerExample</string>
+    <string name="click_start_button">Click on start button</string>
+    <string name="start">strat button</string>
+</resources>
